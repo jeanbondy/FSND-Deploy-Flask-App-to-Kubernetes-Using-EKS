@@ -3,7 +3,9 @@
 .flaskenv
 *.pyc
 *.pyo
+venv/
 env/
+venv*
 env*
 dist/
 build/
@@ -29,3 +31,4 @@ htmlcov/
 .direnv
 
 .github/**
+.env_file
